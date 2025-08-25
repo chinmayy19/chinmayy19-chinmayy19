@@ -18,7 +18,7 @@
 </p>
 
 ---
-
+<--
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chinmayrathod&show_icons=true&theme=radical" height="180"/>
@@ -27,7 +27,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chinmayrathod&theme=radical" />
-</p>
+</p> -->
 
 ---
 
