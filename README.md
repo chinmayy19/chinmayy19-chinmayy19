@@ -19,11 +19,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chinmayrathod&theme=radical" />
-</p> -->
-
----
 
 ## 🌐 Connect With Me
 <p align="center">
